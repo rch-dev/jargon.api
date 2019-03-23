@@ -1,0 +1,29 @@
+type file
+id jargon.api
+title
+    jargon.api
+owners
+    six
+authors 
+    six
+projectUrl
+    https://github.com/rch-dev/jargon.api
+iconUrl
+    https://raw.githubusercontent.com/rch-dev/jargon.api/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/rch-dev/jargon.api/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+language
+    F#
+copyright
+    Copyright 2017
+tags
+    fsharp
+summary
+    first year architecture machine
+description
+    pedagogical obsession with language-based processes pushed just a little bit more
+
+files
+	../../bin/jargon.api ==> lib
